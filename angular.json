@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Correo"
+    }
+  },
+  "defaultProject": "Correo",
+  "cli": {
+    "analytics": "5d29acb2-65c5-4b49-92bb-f29afbe36fb2"
+  }
 }
