@@ -6,13 +6,17 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './shared/header/header.component';
 import { FooterComponent } from './shared/footer/footer.component';
 import { BodyComponent } from './pages/body/body.component';
+import { CalendarComponent } from './pages/calendar/calendar.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    BodyComponent
+    BodyComponent,
+    CalendarComponent,
+
   ],
   imports: [
     BrowserModule,
